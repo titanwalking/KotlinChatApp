@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "796115262921",
+    "firebase_url": "https://kotlinchatapp-ad81f.firebaseio.com",
+    "project_id": "kotlinchatapp-ad81f",
+    "storage_bucket": "kotlinchatapp-ad81f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796115262921:android:41e05fdcd5d7b041",
+        "android_client_info": {
+          "package_name": "com.colossussoftware.titanwalking.kotlinchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796115262921-c49081nj0248o6g8naffd8pqdg55cri0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdidm-2eFO9moYKeVOtiG1IDJvQkELwCg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
